@@ -4,14 +4,14 @@
 Но я планирую масштабировать ПО
 
 ## Данные для входа
-
-1.
-  username: user
-  password: 123
-2.
-  username: admin
-  password: 123
-
+{  
+  username: user,  
+  password: 123  
+},  
+{  
+  username: admin,  
+  password: 123  
+}
 ### `npm start`
 
 Данной командой вы сможете запустить ПО
